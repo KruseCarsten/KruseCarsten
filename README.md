@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Looking for help ...
+## 🤔 Looking for help...
 
 ### Starting with Github
 
