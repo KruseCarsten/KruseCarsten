@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Looking for help ...
+
+### Starting with Github
+
+See [Github Skills](https://skills.github.com/)
+
 <!--
 **KruseCarsten/KruseCarsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
